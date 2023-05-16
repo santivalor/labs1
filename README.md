@@ -12,7 +12,7 @@ El codigo en Python fue ejecutado en Google Colab (12 GB de RAM) por falta de ca
 ![shutterstock_1098841148-e1536703790784](https://github.com/melisatirabassi/prueba/assets/124107756/59ab43f6-a664-46e9-b9ae-76013f9b6cf2)
 
 
-# Tranformaciones
+# Transformaciones
 
 Se cargo el dataset_movies.csv a GoogleColab. Se procedio a realizar un analisis preliminar y se realizaron las siguientes transformaciones solicitadas:
 Se desanidaron los campos como belongs_to_collection, production_companies y otros.
